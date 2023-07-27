@@ -13,7 +13,7 @@
 #### Installation
 ```pip install -r reqiurements.txt```
 
-## working levels
+## working steps
 1. Start the server.
 2. Run host.py and get RoomID ( automatic ).
 3. Write the RoomID into **config.ini**.
