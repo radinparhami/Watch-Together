@@ -1,0 +1,6 @@
+websocket-client==1.6.1
+websocket-server==0.6.4
+python-vlc==3.0.18122
+SQLAlchemy==1.4.40
+PyGetWindow=0.0.9
+keyboard==0.13.5
